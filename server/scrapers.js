@@ -16,7 +16,7 @@ async function scrapeChannel(url) {
 
     browser.close();
 
-    console.log({name, avatarURL})
+    //console.log({name, avatarURL})
 
     return {name, avatarURL}
 
