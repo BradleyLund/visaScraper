@@ -1,4 +1,6 @@
 //do some stuff 
+
+//work out how to 
 var MongoClient = require('mongodb').MongoClient;
 var url = "mongodb://localhost:27017/";
 
